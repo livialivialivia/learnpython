@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e1f7082-425b-4f86-82c2-421a091c05e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/iftest.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected_student.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/student.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/testmodule.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animals.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attrs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_type.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/use_property.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/use_slots.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learnpython.iws" />
@@ -26,71 +27,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gitbasic" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gitbasic">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="asciitest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/asciitest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iftest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iftest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="testmodule.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testmodule.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="student.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/student.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="protected_student.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="protected_student.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected_student.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state relative-caret-position="150">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Contacts.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Contacts.py">
+      <file leaf-file-name="animals.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/animals.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state relative-caret-position="238">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_type.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/get_type.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attrs.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/attrs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="use_slots.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/use_slots.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="use_property.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/use_property.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -120,6 +111,11 @@
         <option value="$PROJECT_DIR$/testmodule.py" />
         <option value="$PROJECT_DIR$/student.py" />
         <option value="$PROJECT_DIR$/protected_student.py" />
+        <option value="$PROJECT_DIR$/animals.py" />
+        <option value="$PROJECT_DIR$/get_type.py" />
+        <option value="$PROJECT_DIR$/attrs.py" />
+        <option value="$PROJECT_DIR$/use_slots.py" />
+        <option value="$PROJECT_DIR$/use_property.py" />
       </list>
     </option>
   </component>
@@ -181,8 +177,8 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.protected_student">
-    <configuration default="false" name="asciitest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.use_property">
+    <configuration default="false" name="animals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -194,12 +190,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learnpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asciitest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/animals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="iftest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="get_type" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -211,12 +207,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learnpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iftest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_type.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="testmodule" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="attrs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -228,12 +224,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learnpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testmodule.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/attrs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="student" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="use_slots" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -245,12 +241,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learnpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/student.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_slots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="protected_student" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="use_property" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -262,7 +258,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learnpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/protected_student.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_property.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -402,19 +398,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.asciitest" />
-      <item index="1" class="java.lang.String" itemvalue="Python.iftest" />
-      <item index="2" class="java.lang.String" itemvalue="Python.testmodule" />
-      <item index="3" class="java.lang.String" itemvalue="Python.student" />
-      <item index="4" class="java.lang.String" itemvalue="Python.protected_student" />
+      <item index="0" class="java.lang.String" itemvalue="Python.animals" />
+      <item index="1" class="java.lang.String" itemvalue="Python.get_type" />
+      <item index="2" class="java.lang.String" itemvalue="Python.attrs" />
+      <item index="3" class="java.lang.String" itemvalue="Python.use_slots" />
+      <item index="4" class="java.lang.String" itemvalue="Python.use_property" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.protected_student" />
-        <item index="1" class="java.lang.String" itemvalue="Python.student" />
-        <item index="2" class="java.lang.String" itemvalue="Python.testmodule" />
-        <item index="3" class="java.lang.String" itemvalue="Python.iftest" />
-        <item index="4" class="java.lang.String" itemvalue="Python.asciitest" />
+        <item index="0" class="java.lang.String" itemvalue="Python.use_property" />
+        <item index="1" class="java.lang.String" itemvalue="Python.use_slots" />
+        <item index="2" class="java.lang.String" itemvalue="Python.attrs" />
+        <item index="3" class="java.lang.String" itemvalue="Python.get_type" />
+        <item index="4" class="java.lang.String" itemvalue="Python.animals" />
       </list>
     </recent_temporary>
   </component>
@@ -440,7 +436,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -594,8 +590,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/protected_student.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/animals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/get_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attrs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_slots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/use_property.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
           <folding />
         </state>
       </provider>
