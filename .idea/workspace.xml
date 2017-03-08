@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e1f7082-425b-4f86-82c2-421a091c05e0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/animals.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/attrs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/get_type.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/use_property.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/use_slots.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/err.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/errone.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exceptionone.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exceptiontwo.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mydict.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mydict_test.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learnpython.iws" />
@@ -26,63 +27,72 @@
     <favorites_list name="learnpython" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="protected_student.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected_student.py">
+    <leaf>
+      <file leaf-file-name="exceptionone.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exceptionone.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exceptiontwo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exceptiontwo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="err.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/err.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+              <folding>
+                <marker date="1488952897000" expanded="true" signature="67:88" ph="..." />
+                <marker date="1488952897000" expanded="true" signature="101:121" ph="..." />
+                <marker date="1488952897000" expanded="true" signature="134:217" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="errone.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/errone.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
               <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <marker date="1488953111000" expanded="true" signature="52:114" ph="..." />
+                <marker date="1488953111000" expanded="true" signature="127:140" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mydict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mydict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animals.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/animals.py">
+      <file leaf-file-name="mydict_test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mydict_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="get_type.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/get_type.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="attrs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/attrs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="use_slots.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/use_slots.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="use_property.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/use_property.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-              <folding />
+            <state relative-caret-position="343">
+              <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+              <folding>
+                <element signature="e#41#56#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,6 +126,12 @@
         <option value="$PROJECT_DIR$/attrs.py" />
         <option value="$PROJECT_DIR$/use_slots.py" />
         <option value="$PROJECT_DIR$/use_property.py" />
+        <option value="$PROJECT_DIR$/exceptionone.py" />
+        <option value="$PROJECT_DIR$/exceptiontwo.py" />
+        <option value="$PROJECT_DIR$/err.py" />
+        <option value="$PROJECT_DIR$/errone.py" />
+        <option value="$PROJECT_DIR$/mydict.py" />
+        <option value="$PROJECT_DIR$/mydict_test.py" />
       </list>
     </option>
   </component>
@@ -148,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -169,7 +186,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,8 +193,8 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.use_property">
-    <configuration default="false" name="animals" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittest TestDict.test_attrerror">
+    <configuration default="false" name="err" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -190,12 +206,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learnpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/animals.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/err.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="get_type" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="errone" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -207,12 +223,12 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learnpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_type.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/errone.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="attrs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="mydict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -224,43 +240,53 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learnpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/attrs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mydict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="use_slots" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittest TestDict.test_keyerror" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learnpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_slots.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mydict_test.py" />
+      <option name="CLASS_NAME" value="TestDict" />
+      <option name="METHOD_NAME" value="test_keyerror" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="use_property" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Unittest TestDict.test_attrerror" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="learnpython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_property.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mydict_test.py" />
+      <option name="CLASS_NAME" value="TestDict" />
+      <option name="METHOD_NAME" value="test_attrerror" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -398,19 +424,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.animals" />
-      <item index="1" class="java.lang.String" itemvalue="Python.get_type" />
-      <item index="2" class="java.lang.String" itemvalue="Python.attrs" />
-      <item index="3" class="java.lang.String" itemvalue="Python.use_slots" />
-      <item index="4" class="java.lang.String" itemvalue="Python.use_property" />
+      <item index="0" class="java.lang.String" itemvalue="Python.err" />
+      <item index="1" class="java.lang.String" itemvalue="Python.errone" />
+      <item index="2" class="java.lang.String" itemvalue="Python.mydict" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestDict.test_keyerror" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestDict.test_attrerror" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.use_property" />
-        <item index="1" class="java.lang.String" itemvalue="Python.use_slots" />
-        <item index="2" class="java.lang.String" itemvalue="Python.attrs" />
-        <item index="3" class="java.lang.String" itemvalue="Python.get_type" />
-        <item index="4" class="java.lang.String" itemvalue="Python.animals" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestDict.test_attrerror" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestDict.test_keyerror" />
+        <item index="2" class="java.lang.String" itemvalue="Python.mydict" />
+        <item index="3" class="java.lang.String" itemvalue="Python.errone" />
+        <item index="4" class="java.lang.String" itemvalue="Python.err" />
       </list>
     </recent_temporary>
   </component>
@@ -427,6 +453,14 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest_TestDict_test_attrerror - 2017.03.08 at 14h 39m 55s.xml">
+      <configuration name="Unittest TestDict.test_attrerror" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestDict_test_keyerror - 2017.03.08 at 14h 39m 39s.xml">
+      <configuration name="Unittest TestDict.test_keyerror" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
@@ -436,7 +470,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32739726" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -470,7 +504,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -478,7 +511,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -486,7 +518,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -494,7 +525,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -502,7 +532,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -510,7 +539,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -518,7 +546,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -526,7 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="33" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -544,7 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -552,7 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -560,7 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -568,7 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -576,7 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,7 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="28" column="30" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,7 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -600,7 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,7 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -616,7 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -624,7 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -632,7 +647,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptionone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptiontwo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/err.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <marker date="1488952897000" expanded="true" signature="67:88" ph="..." />
+            <marker date="1488952897000" expanded="true" signature="101:121" ph="..." />
+            <marker date="1488952897000" expanded="true" signature="134:217" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/errone.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <marker date="1488953111000" expanded="true" signature="52:114" ph="..." />
+            <marker date="1488953111000" expanded="true" signature="127:140" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mydict_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="31" column="58" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+          <folding>
+            <element signature="e#41#56#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
